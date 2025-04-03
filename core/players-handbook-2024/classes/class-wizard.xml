@@ -82,8 +82,7 @@
 			<div element="ID_WOTC_PHB24_CLASS_FEATURE_WIZARD_EPIC_BOON" />
 			<div element="ID_WOTC_PHB24_CLASS_FEATURE_WIZARD_SIGNATURE_SPELLS" />
 		</description>
-		<sheet display="false">
-		</sheet>
+		<sheet display="false" />
 		<setters>
 			<set name="short">A Scholarly Magic-User of Arcane Power.</set>
 			<set name="hd">d6</set>
