@@ -39,12 +39,9 @@
 			</ul>
 			<h5>FIGHTER FEATURES</h5>
 			<table class="class-features">
-				<tr style="font-weight: bold">
-					<td rowspan="2">Level</td>
-					<td class="col-20 left" rowspan="2">Class Features</td>
-					<td rowspan="2">Second<br />Wind</td>
-					<td rowspan="2">Weapon<br />Mastery</td>
-				</tr>
+				<thead>
+					<tr><td class="col-5">Level</td><td class="left">Features</td><td class="left">Second Wind</td><td class="left">Weapon Mastery</td></tr>
+				</thead>
 				<tr><td> 1</td><td class="left">Fighting Style, Second Wind, Weapon Mastery</td><td>2</td><td>3</td></tr>
 				<tr><td> 2</td><td class="left">Action Surge (one use), Tactical Mind</td><td>2</td><td>3</td></tr>
 				<tr><td> 3</td><td class="left">Fighter Subclass</td><td>2</td><td>3</td></tr>
