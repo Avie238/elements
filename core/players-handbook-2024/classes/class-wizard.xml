@@ -46,7 +46,7 @@
 					<td class="col-20 left" rowspan="2">Class Features</td>
 					<td rowspan="2">Prepared<br />Spells</td>
 					<td rowspan="2">Cantrips</td>
-					<td colspan="9" style="vertical-align:bottom; border-bottom: 0px">Spell Slots per Level</td>
+					<td colspan="9" style="vertical-align:bottom; border-bottom: 0px">Spell Slots per Spell Level</td>
 				</tr>
 				<tr style="font-weight: bold"><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr>
 				<tr><td> 1</td><td class="left">Spellcasting, Ritual Adept, Arcane Recovery</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>-</td></tr>
